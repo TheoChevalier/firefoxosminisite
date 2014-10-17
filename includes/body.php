@@ -128,6 +128,7 @@
           </a>
         </li>
         <li id="promo-10" class="item promo-large-portrait firefox-desktop" tabindex="0" data-name="Try the best Firefox yet">
+        <img class="primary go" src="media/img/foxprimez-vous.png" alt="Le renard s'exprime publiquement">
           <h2 class="primary go">Foxprimez-vous</h2>
           <a class="panel-link" href="https://www.mozilla.org/fr/firefox/desktop/trust/">
             <div class="secondary">
